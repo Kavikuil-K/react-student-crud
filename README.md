@@ -187,5 +187,5 @@ Detailed project documentation is available in the **docs** folder.
 
 **Kavikuil K**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/Kavikuil-K/react-student-crud
+- LinkedIn: https://www.linkedin.com/in/kavikuil-k-839bb9259/
